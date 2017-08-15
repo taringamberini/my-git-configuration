@@ -1,0 +1,13 @@
+[user]
+	name = taringamberini
+	email = taringamberini@users.noreply.github.com
+[core]
+    autocrlf = input
+    safecrlf = true
+	editor = vim
+[color]
+	ui = auto
+[alias]
+	plog = log --graph --oneline --decorate
+[diff]
+	external = /home/tarin/git-my-conf/gitconfig_diff_with_meld.sh

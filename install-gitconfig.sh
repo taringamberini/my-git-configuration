@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ~
+
 INSTALL_DIR=git-my-conf
 DATE=$(date +%Y%m%d%H%M%S)
 BACKUP_DIR="$INSTALL_DIR-backup-$DATE"
